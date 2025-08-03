@@ -28,7 +28,7 @@
       "router": {
         "origin": false
       },
-      "apiUrl": "http://172.20.10.3:3000"
+      "apiUrl": "http://148.230.70.109:3000"
     }
   }
 }
