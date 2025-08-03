@@ -3,10 +3,6 @@
   "version": "2.0.0",
   "description": "StudyMate AI Backend Server",
   "main": "server.js",
-  "engines": {
-    "node": "18.x",
-    "npm": "9.x"
-  },
   "scripts": {
     "start": "node server.js"
   },
